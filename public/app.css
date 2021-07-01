@@ -1,0 +1,11 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    font-family: "Roboto";
+    letter-spacing: .8px;
+    color: #2d3748;
+    line-height: 1.3;
+}
+article{
+    margin-bottom: 60px;
+}
